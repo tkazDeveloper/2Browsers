@@ -54,7 +54,7 @@ This policy is effective as of 2021-07-23
 **Note**
 
 * Not all content can be displayed with this application.
-* This is the first app created by the creator, so there is a problem.
+* The problem remains because the app was created by the author for the first time.
 
 **Contact Us**
 
