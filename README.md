@@ -53,8 +53,8 @@ This policy is effective as of 2021-07-23
 
 **Note**
 
-Not all content can be displayed with this application.
-This is the first app created by the creator, so there is a problem.
+* Not all content can be displayed with this application.
+* This is the first app created by the creator, so there is a problem.
 
 **Contact Us**
 
