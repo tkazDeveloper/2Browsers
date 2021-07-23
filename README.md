@@ -51,6 +51,11 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 This policy is effective as of 2021-07-23
 
+**Note**
+
+Not all content can be displayed with this application.
+This is the first app created by the creator, so there is a problem.
+
 **Contact Us**
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at kazuya.2021.defectreport@gmail.com.
